@@ -43,5 +43,6 @@ npm test
 npm run lint
 ```
 ## Project Overview
-This project includes user authentication features.
+This project includes user authentication features and REST API endpoint for users.
+
 
