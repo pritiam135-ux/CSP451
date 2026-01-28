@@ -42,7 +42,6 @@ To intentionally create a merge conflict, edit the same lines in one of:
 npm test
 npm run lint
 ```
+<<<<<<< HEAD
 ## Project Overview
-This project includes user authentication features and REST API endpoint for users.
-
-
+This project includes user authentication features, REST API endpoint and Database for users.
